@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LlaveYa</string>
+    <string name="title_activity_main">LlaveYa</string>
+    <string name="package_name">com.llaveya.cerrajeria</string>
+    <string name="custom_url_scheme">com.llaveya.cerrajeria</string>
+</resources>

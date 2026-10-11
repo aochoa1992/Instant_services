@@ -1,0 +1,20 @@
+data/*.json
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.expo/
+*.log
+.DS_Store
+
+# Native build output and local machine settings
+ios/Pods/
+ios/build/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+
+# Generated local documentation/rendering output
+render_*/

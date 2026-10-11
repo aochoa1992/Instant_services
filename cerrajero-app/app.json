@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "LlaveYa Cerrajero",
+    "slug": "llaveya-cerrajero",
+    "scheme": "llaveya-cerrajero",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": { "image": "./assets/splash-icon.png", "resizeMode": "contain", "backgroundColor": "#221f19" },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.llaveya.cerrajero" },
+    "android": { "package": "com.llaveya.cerrajero", "adaptiveIcon": { "foregroundImage": "./assets/android-icon-foreground.png", "backgroundColor": "#221f19" } },
+    "web": { "name": "LlaveYa Cerrajero", "shortName": "LlaveYa Pro", "bundler": "metro", "favicon": "./assets/favicon.png" }
+  }
+}

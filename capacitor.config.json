@@ -1,0 +1,6 @@
+{
+  "appId": "com.llaveya.cerrajeria",
+  "appName": "LlaveYa",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}

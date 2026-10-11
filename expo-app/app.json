@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "LlaveYa Cliente",
+    "slug": "llaveya-cliente",
+    "scheme": "llaveya",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#142b2b"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.llaveya.cerrajeria"
+    },
+    "android": {
+      "package": "com.llaveya.cerrajeria",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundColor": "#142b2b"
+      }
+    },
+    "web": {
+      "name": "LlaveYa Cliente",
+      "shortName": "LlaveYa Cliente",
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
