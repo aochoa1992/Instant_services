@@ -7,9 +7,33 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "splash": { "image": "./assets/splash-icon.png", "resizeMode": "contain", "backgroundColor": "#221f19" },
-    "ios": { "supportsTablet": true, "bundleIdentifier": "com.llaveya.cerrajero" },
-    "android": { "package": "com.llaveya.cerrajero", "adaptiveIcon": { "foregroundImage": "./assets/android-icon-foreground.png", "backgroundColor": "#221f19" } },
-    "web": { "name": "LlaveYa Cerrajero", "shortName": "LlaveYa Pro", "bundler": "metro", "favicon": "./assets/favicon.png" }
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#221f19"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.llaveya.cerrajero"
+    },
+    "android": {
+      "package": "com.llaveya.cerrajero",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundColor": "#221f19"
+      }
+    },
+    "web": {
+      "name": "LlaveYa Cerrajero",
+      "shortName": "LlaveYa Pro",
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b85811f2-9a55-4fae-8932-913740003e98"
+      }
+    },
+    "owner": "aochoa1992"
   }
 }

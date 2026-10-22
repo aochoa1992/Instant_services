@@ -28,6 +28,12 @@
       "shortName": "LlaveYa Cliente",
       "bundler": "metro",
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f27f1f3e-45e8-4749-a47f-01a34893f9db"
+      }
+    },
+    "owner": "aochoa1992"
   }
 }
