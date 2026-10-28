@@ -1,6 +1,6 @@
 # LlaveYa Cerrajero · Expo + TypeScript
 
-App local para iOS, Android y web. Usa Supabase Auth y las funciones PostgreSQL del proyecto remoto a través de HTTPS; no depende del servidor local `../server.js`.
+App local para iOS, Android y web. Usa Supabase Auth y las funciones PostgreSQL del proyecto remoto a través de HTTPS.
 
 ## Ejecutar
 
