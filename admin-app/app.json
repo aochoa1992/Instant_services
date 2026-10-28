@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "LlaveYa Admin",
+    "slug": "llaveya-admin",
+    "scheme": "llaveya-admin",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#17222c"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.llaveya.admin"
+    },
+    "android": {
+      "package": "com.llaveya.admin",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundColor": "#17222c"
+      }
+    },
+    "web": {
+      "name": "LlaveYa Admin",
+      "shortName": "LlaveYa Admin",
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "aochoa1992"
+  }
+}
